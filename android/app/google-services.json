@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "793159943944",
+    "project_id": "notewiz-mtsi",
+    "storage_bucket": "notewiz-mtsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793159943944:android:37c4095c77aeccf94d0ebd",
+        "android_client_info": {
+          "package_name": "com.example.note_wiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793159943944-282vau5uk3qlar29kmb4ib0341aq8p53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcNfEPnK9aW-BUoEgFniJg-NsdnUB-7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793159943944-282vau5uk3qlar29kmb4ib0341aq8p53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793159943944-d8cu0t4lo8hvcuv705vrp2jnctet49ke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notewhiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793159943944:android:bd64cbaa01220f2d4d0ebd",
+        "android_client_info": {
+          "package_name": "com.example.notewiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793159943944-282vau5uk3qlar29kmb4ib0341aq8p53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcNfEPnK9aW-BUoEgFniJg-NsdnUB-7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793159943944-282vau5uk3qlar29kmb4ib0341aq8p53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793159943944-d8cu0t4lo8hvcuv705vrp2jnctet49ke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notewhiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793159943944:android:83be9a01691ea5af4d0ebd",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793159943944-282vau5uk3qlar29kmb4ib0341aq8p53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcNfEPnK9aW-BUoEgFniJg-NsdnUB-7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793159943944-282vau5uk3qlar29kmb4ib0341aq8p53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793159943944-d8cu0t4lo8hvcuv705vrp2jnctet49ke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notewhiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
